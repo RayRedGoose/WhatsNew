@@ -1,0 +1,15 @@
+.news-container {
+  grid-area: main;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  justify-content: space-between;
+  height: 87vh;
+  overflow-y: scroll;
+}
+
+@media only screen and (max-width: 600px) {
+  .news-container {
+    height: 100%;
+  }
+}

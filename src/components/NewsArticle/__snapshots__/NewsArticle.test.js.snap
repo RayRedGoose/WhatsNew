@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot with all data passed in correctly 1`] = `
+<section
+  className="news-preview"
+>
+  <header
+    style={
+      Object {
+        "backgroundImage": "url(./image-preview.jpg)",
+      }
+    }
+  />
+  <div
+    className="text-wrapper"
+  >
+    <h2>
+      Article
+    </h2>
+    <p>
+      description of article
+    </p>
+  </div>
+  <div
+    className="link-wrapper"
+  >
+    <a
+      href="link.com"
+    >
+      Link To Article
+    </a>
+    <img
+      alt="arrow forward"
+      src="arrow.svg"
+    />
+  </div>
+</section>
+`;

@@ -1,0 +1,26 @@
+.menu_item {
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  &:hover,
+  &:focus {
+    border: 2px solid #f0aa34;
+  }
+  &:active,
+  &.active-tab {
+    background-color: #f0aa34;
+  }
+  img {
+    width: 30px;
+    margin-right: 20px;
+  }
+  h2 {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 400;
+  }
+}

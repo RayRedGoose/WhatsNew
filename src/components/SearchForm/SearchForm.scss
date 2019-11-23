@@ -1,0 +1,29 @@
+.search {
+  grid-area: search;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  * {
+    font-size: 18px;
+  }
+  input {
+    border: none;
+    background: none;
+    color: #fff;
+    padding: 0.4em 10px;
+    width: 80%;
+  }
+  button {
+    background-color: #b66af0;
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+    padding: 0.4em 2em;
+    &:hover {
+      transform: scale(1.1);
+    }
+    &:active {
+      transform: scale(0.9);
+    }
+  }
+}

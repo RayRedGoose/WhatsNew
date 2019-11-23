@@ -1,0 +1,16 @@
+.menu {
+  grid-area: menu;
+  padding: 20px;
+  h1 {
+    color: #fff;
+    font-size: 32px;
+    text-transform: capitalize;
+    line-height: 1.4em;
+    padding-bottom: 20px;
+    margin: 0 auto 20px;
+    &::after {
+      content: "New?";
+      color: #f0aa34;
+    }
+  }
+}

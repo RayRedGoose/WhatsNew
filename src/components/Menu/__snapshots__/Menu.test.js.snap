@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu should match the snapshot with all data passed in correctly 1`] = `
+<aside
+  className="menu"
+>
+  <h1>
+    What's
+  </h1>
+  <nav>
+    <MenuItem
+      activateItem={[Function]}
+      changeContent={[MockFunction]}
+      elementClass="menu_item active-tab"
+      iconName="placeholder.svg"
+      key="1"
+      name="local"
+      text="Local news"
+    />
+    <MenuItem
+      activateItem={[Function]}
+      changeContent={[MockFunction]}
+      elementClass="menu_item"
+      iconName="technology.svg"
+      key="2"
+      name="technology"
+      text="Technology"
+    />
+    <MenuItem
+      activateItem={[Function]}
+      changeContent={[MockFunction]}
+      elementClass="menu_item"
+      iconName="tickets.svg"
+      key="3"
+      name="entertainment"
+      text="Entertainment"
+    />
+    <MenuItem
+      activateItem={[Function]}
+      changeContent={[MockFunction]}
+      elementClass="menu_item"
+      iconName="rocket.svg"
+      key="4"
+      name="science"
+      text="Science"
+    />
+    <MenuItem
+      activateItem={[Function]}
+      changeContent={[MockFunction]}
+      elementClass="menu_item"
+      iconName="health.svg"
+      key="5"
+      name="health"
+      text="Health"
+    />
+  </nav>
+</aside>
+`;

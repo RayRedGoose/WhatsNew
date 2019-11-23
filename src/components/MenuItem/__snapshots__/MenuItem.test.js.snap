@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MenuItem should match the snapshot with all data passed in correctly 1`] = `
+<div
+  className="menu_item active-tab"
+  name="Health"
+  onClick={[Function]}
+  onKeyPress={[Function]}
+  role="button"
+  tabIndex="0"
+>
+  <img
+    alt="Health icon"
+    src="./Health.svg"
+  />
+  <h2>
+    Health
+  </h2>
+</div>
+`;

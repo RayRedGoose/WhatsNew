@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot with all data passed in correctly 1`] = `
+<main
+  className="news-container"
+>
+  <NewsArticle
+    articleLink="https://www.example.com"
+    intro="Mysterious comet will cause a rare 'Unicorn' meteor storm this week."
+    key="1"
+    newsPreviewImage="./image.jpg"
+    title="Mysterious comet"
+  />
+</main>
+`;

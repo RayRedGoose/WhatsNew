@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "comma-dangle": ["error", "never"],
+    "semi": ["error", "never"],
+    "import/prefer-default-export": "off",
+    "arrow-body-style": ["error", "always"],
+    "arrow-parens": ["error", "as-needed"]
+  }
+}

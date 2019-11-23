@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  display: grid;
+  grid-template-areas: "menu search" "menu main";
+  grid-template-columns: 1fr 4fr;
+  grid-template-rows: 1fr 9fr;
+  background: #141527;
+  height: 100vh;
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+  .app {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+}
