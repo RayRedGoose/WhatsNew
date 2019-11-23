@@ -10,15 +10,15 @@ This application was built with React and tested with Jest and Enzyme.
 
 **Loading animation**
 
-![Loading screencast](./screenshots/loading.png)
+![Loading screencast](./screenshots/loading.gif)
 
 **Tab animation**
 
-![tabing screencast](./screenshots/tab-animation.png)
+![tabing screencast](./screenshots/tab-animation.gif)
 
 **Search animation**
 
-![Search screencast](./screenshots/search-animation.png)
+![Search screencast](./screenshots/search-animation.gif)
 
 ### Set Up
 
