@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/WhatsNew/static/css/main.dd1d663c.chunk.css",
+    "main.js": "/WhatsNew/static/js/main.9cf039df.chunk.js",
+    "main.js.map": "/WhatsNew/static/js/main.9cf039df.chunk.js.map",
+    "runtime-main.js": "/WhatsNew/static/js/runtime-main.43992c84.js",
+    "runtime-main.js.map": "/WhatsNew/static/js/runtime-main.43992c84.js.map",
+    "static/js/2.b5f72e8b.chunk.js": "/WhatsNew/static/js/2.b5f72e8b.chunk.js",
+    "static/js/2.b5f72e8b.chunk.js.map": "/WhatsNew/static/js/2.b5f72e8b.chunk.js.map",
+    "index.html": "/WhatsNew/index.html",
+    "precache-manifest.5d5f5ca1850af769f464eda63bc064e3.js": "/WhatsNew/precache-manifest.5d5f5ca1850af769f464eda63bc064e3.js",
+    "service-worker.js": "/WhatsNew/service-worker.js",
+    "static/css/main.dd1d663c.chunk.css.map": "/WhatsNew/static/css/main.dd1d663c.chunk.css.map",
+    "static/media/arrow.svg": "/WhatsNew/static/media/arrow.4df22423.svg",
+    "static/media/health.svg": "/WhatsNew/static/media/health.826c4c40.svg",
+    "static/media/placeholder.svg": "/WhatsNew/static/media/placeholder.acefea4c.svg",
+    "static/media/rocket.svg": "/WhatsNew/static/media/rocket.e94a8beb.svg",
+    "static/media/technology.svg": "/WhatsNew/static/media/technology.f42b474d.svg",
+    "static/media/tickets.svg": "/WhatsNew/static/media/tickets.a680dc40.svg"
+  }
+}
